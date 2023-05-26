@@ -1,1 +1,2 @@
-# triangle-area-and-perimeter-calculator
+# Triangle Area and Perimeter Calculator
+Calculates the area and perimeter of a triangle.
